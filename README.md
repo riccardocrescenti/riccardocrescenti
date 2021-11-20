@@ -1,15 +1,16 @@
-# Hi there 👋
+# Hi there! 👋
 I am Riccardo Crescenti, i live in Italy and  I am a MSc student in Computer Engineering at University of Pavia.
 
-## Education
+## 📚 Education 
 - Master in Computer Science and Multimedia &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *[University of Pavia Pavia, Italy]*
 - Bachelor in Electronic and Computer Engineering &emsp;&emsp;&emsp;&emsp;*[University of Pavia Pavia, Italy]*
-## Main Projects
+## 💻 Main Projects
 - [Space Invaders](https://github.com/riccardocrescenti/Space-Invaders) - Java
 - [Augmented Reality APP](https://drive.google.com/file/d/1lWjWnliPcOgZjRWoj35tzdoAyVUUEjib/view) - C#
 - [Italian Energy Consumption Prediction](https://github.com/riccardocrescenti/Italian-energy-consumption-prediction) - Matlab
 - [Vanishing Point Detection](https://github.com/riccardocrescenti/VanishingPoint) - Java
-
+## 📫 Contacts
+- [crescenti.riccardo@gmail.com](mailto:crescenti.riccardo@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 <!--
 **riccardocrescenti/riccardocrescenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

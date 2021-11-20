@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Riccardo Crescenti, i live in Italy and  I am a MSc student in Computer Engineering at University of Pavia.
 <!--
 **riccardocrescenti/riccardocrescenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

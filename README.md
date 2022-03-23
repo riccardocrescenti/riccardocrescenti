@@ -10,6 +10,7 @@ I am Riccardo Crescenti, i live in Italy and  I am a MSc student in Computer Eng
 - [Parallel Matrix Multiplication and Inversion](https://github.com/riccardocrescenti/openMPI-matrix-project) - C
 - [Italian Energy Consumption Prediction](https://github.com/riccardocrescenti/Italian-energy-consumption-prediction) - MATLAB
 - [Vanishing Point Detection](https://github.com/riccardocrescenti/VanishingPoint) - Java
+- [Landcover Classification](https://github.com/riccardocrescenti/landcover-classification-sda) - Google Earth Engine -JavaScript
 
 ## 📫 Contacts
 - [crescenti.riccardo@gmail.com](mailto:crescenti.riccardo@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)

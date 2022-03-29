@@ -6,8 +6,9 @@ I am Riccardo Crescenti, i live in Italy and  I am a MSc student in Computer Eng
 - Bachelor in Electronic and Computer Engineering &emsp;&emsp;&emsp;&emsp;*[University of Pavia, Italy]*
 ## 💻 Main Projects
 - [Space Invaders](https://github.com/riccardocrescenti/Space-Invaders) - Java
-- [Augmented Reality APP](https://drive.google.com/file/d/1lWjWnliPcOgZjRWoj35tzdoAyVUUEjib/view) - C#
+- [Augmented Reality APP](https://drive.google.com/file/d/1lWjWnliPcOgZjRWoj35tzdoAyVUUEjib/view) - Unity, C#
 - [Parallel Matrix Multiplication and Inversion](https://github.com/riccardocrescenti/openMPI-matrix-project) - C
+- [Website for sharing scientific articles](https://github.com/riccardocrescenti/website-db-interaction.git) - HTML CSS, JS, PHP, SQL
 - [Italian Energy Consumption Prediction](https://github.com/riccardocrescenti/Italian-energy-consumption-prediction) - MATLAB
 - [Vanishing Point Detection](https://github.com/riccardocrescenti/VanishingPoint) - Java
 - [Landcover Classification](https://github.com/riccardocrescenti/landcover-classification-sda) - GEE - JavaScript

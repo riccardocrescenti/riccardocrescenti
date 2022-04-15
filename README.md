@@ -6,6 +6,7 @@ I am Riccardo Crescenti, i live in Italy and  I am a MSc student in Computer Eng
 - Bachelor in Electronic and Computer Engineering &emsp;&emsp;&emsp;&emsp;*[University of Pavia, Italy]*
 ## 💻 Main Projects
 - [Space Invaders](https://github.com/riccardocrescenti/Space-Invaders) - Java
+- [Automotive Eye Tracking](https://github.com/riccardocrescenti/Automotive-Eye-Tracking) - Python, Pupil Labs Core
 - [Augmented Reality APP](https://drive.google.com/file/d/1lWjWnliPcOgZjRWoj35tzdoAyVUUEjib/view) - Unity, C#
 - [Parallel Matrix Multiplication and Inversion](https://github.com/riccardocrescenti/openMPI-matrix-project) - C
 - [Website for sharing scientific articles](https://github.com/riccardocrescenti/website-db-interaction.git) - HTML CSS, JS, PHP, SQL

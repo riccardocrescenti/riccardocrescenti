@@ -1,5 +1,5 @@
 # Hi there! 👋
-I am Riccardo Crescenti, i live in Italy and  I am a MSc student in Computer Engineering at University of Pavia.
+I am Riccardo Crescenti, i live in Italy and  I am software engineer, i graduated in Computer Engineering at University of Pavia.
 
 ## 📚 Education 
 - Master in Computer Science and Multimedia &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *[University of Pavia, Italy]*
